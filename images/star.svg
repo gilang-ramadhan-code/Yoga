@@ -1,0 +1,74 @@
+<svg
+  fill="none"
+  height="97"
+  viewBox="0 0 97 97"
+  width="97"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <ellipse
+    cx="48"
+    cy="48.5"
+    rx="15"
+    ry="47.5"
+    stroke="url(#paint0_linear_17_30)"
+    stroke-width="2"
+  />
+
+  <ellipse
+    cx="48.5"
+    cy="48"
+    rx="15"
+    ry="47.5"
+    stroke="url(#paint1_linear_17_30)"
+    stroke-width="2"
+    transform="rotate(90 48.5 48)"
+  />
+
+  <path
+    d="M48 18L53.0912 42.9088L78 48L53.0912 53.0912L48 78L42.9088 53.0912L18 48L42.9088 42.9088L48 18Z"
+    fill="url(#paint2_linear_17_30)"
+    stroke="#F8F0FD"
+    stroke-width="3"
+  />
+
+  <defs>
+    <linearGradient
+      gradientUnits="userSpaceOnUse"
+      id="paint0_linear_17_30"
+      x1="33"
+      x2="60.025"
+      y1="48.5"
+      y2="45.0523"
+    >
+      <stop stop-color="#FF62B7" />
+
+      <stop offset="1" stop-color="#9F53FF" />
+    </linearGradient>
+
+    <linearGradient
+      gradientUnits="userSpaceOnUse"
+      id="paint1_linear_17_30"
+      x1="33.5"
+      x2="60.525"
+      y1="48"
+      y2="44.5523"
+    >
+      <stop stop-color="#FF62B7" />
+
+      <stop offset="1" stop-color="#9F53FF" />
+    </linearGradient>
+
+    <linearGradient
+      gradientUnits="userSpaceOnUse"
+      id="paint2_linear_17_30"
+      x1="18"
+      x2="65.2227"
+      y1="48"
+      y2="28.9228"
+    >
+      <stop stop-color="#FF62B7" />
+
+      <stop offset="1" stop-color="#9F53FF" />
+    </linearGradient>
+  </defs>
+</svg>
